@@ -1,6 +1,7 @@
 
 import './App.css'
 import { User } from './User'
+import { UserDetails } from "./UserDetails";
 
 function App() {
   
@@ -8,6 +9,7 @@ function App() {
   return (
     <>
       <User></User>
+      <UserDetails></UserDetails>
     </>
   )
 }
