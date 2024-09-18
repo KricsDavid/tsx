@@ -3,7 +3,7 @@ export function User(){
 return(
 
     <>
-        <h1>Elsű réákt oltalam</h1>
+        <h1>Ez a felhasználó komponens</h1>
     </>
 )
 }
